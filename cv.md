@@ -14,7 +14,11 @@ Skills: 1.C++(studying at BSUIR)
         3.CSS
         
 Code examples:Code examples: https://github.com/Dexnkt001/MyLabs.git
-Experience: almost all I know is from a university course. My work :  
+
+Experience: almost all I know is from a university course. My work :
+
 https://github.com/Dexnkt001/MyLabs.git
+
 Education: 1 course at the university and a course of video lessons in C ++.
+
 English: English lessons at the school for seven years and 1 course at the university.
